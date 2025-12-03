@@ -10,16 +10,7 @@ function App() {
   return (
     <>
      <h1>Amit</h1>
-     <p>lorem</p>
-     <nav>
-      <Link to='/'></Link>
-      <Link to='/profile'></Link>
-     </nav>
-       <Routes>
-        <Route path='/' Component={Home}/>n
-                <Route path='/profile' Component={Profile}/>
-
-       </Routes>
+   
     </>
   )
 }
